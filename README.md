@@ -1,3 +1,3 @@
-# leetcode-goa# leetcode-go
+# leetcode-go
 
 My Leetcode solutions in golang.
